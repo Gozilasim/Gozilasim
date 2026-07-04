@@ -68,24 +68,13 @@ I'm an **AI Engineer** and **Full-Stack AI Developer** based in Malaysia, focuse
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Education
-
-**Bachelor of Computer Science, Artificial Intelligence**  
-Universiti Teknikal Malaysia Melaka  
-`Oct 2021 - Mar 2025`
-
-- CGPA: `3.71`
-- Thesis: Interactive Feedback System using Gesture Recognition
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-![Gozilasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gozilasim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Gozilasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gozilasim&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gozilasim&layout=compact&theme=tokyonight&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gozilasim&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400)
 
 </div>
 
