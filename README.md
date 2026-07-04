@@ -72,9 +72,9 @@ I'm an **AI Engineer** and **Full-Stack AI Developer** based in Malaysia, focuse
 
 <div align="center">
 
-![Gozilasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gozilasim&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400)
+![Gozilasim's GitHub Stats](https://stats.gozilasim.win/api?username=Gozilasim&show_icons=true&theme=transparent&hide_border=true&commits_year=2026&cache_seconds=86400)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gozilasim&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400)
+![Most Used Languages](https://stats.gozilasim.win/api/top-langs/?username=Gozilasim&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400)
 
 </div>
 
