@@ -9,32 +9,27 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-
-## About Me
-
-I'm **SIM WENG JIN**, also known as **Gozilasim**.
-
-I'm an **AI Engineer** and **Full-Stack AI Developer** based in Malaysia, focused on building practical AI products, AI agent systems, RAG workflows, Python backends, and React-based interfaces.
-
-- Building AI agent chatbot systems for SaaS customer support
-- Working on RAG, tool calling, workflow automation, and human handoff flows
-- Developing realtime chat systems, backend integrations, and AI-assisted workflows
-- Creating full-stack products with React, TypeScript, FastAPI, Django, and Flutter
-- Languages: Mandarin, English, Malay
-
-> 一个人的价值，不在于起点，而在于他愿意成长到哪里。
-
+      <h2>About Me</h2>
+      <p>I'm <strong>SIM WENG JIN</strong>, also known as <strong>Gozilasim</strong>.</p>
+      <p>I'm an <strong>AI Engineer</strong> and <strong>Full-Stack AI Developer</strong> based in Malaysia, focused on building practical AI products, AI agent systems, RAG workflows, Python backends, and React-based interfaces.</p>
+      <ul>
+        <li>Building AI agent chatbot systems for SaaS customer support</li>
+        <li>Working on RAG, tool calling, workflow automation, and human handoff flows</li>
+        <li>Developing realtime chat systems, backend integrations, and AI-assisted workflows</li>
+        <li>Creating full-stack products with React, TypeScript, FastAPI, Django, and Flutter</li>
+        <li>Languages: Mandarin, English, Malay</li>
+      </ul>
+      <blockquote>一个人的价值，不在于起点，而在于他愿意成长到哪里。</blockquote>
     </td>
     <td width="38%" valign="top">
-
-## Contact
-
-- Website: [personal-website.gozilasim.win](https://personal-website.gozilasim.win)
-- GitHub: [github.com/Gozilasim](https://github.com/Gozilasim)
-- LinkedIn: [linkedin.com/in/gozilasim](https://www.linkedin.com/in/gozilasim)
-- Telegram: [@Gozilasim](https://t.me/Gozilasim)
-- Email: `wengjin4896@gmail.com`
-
+      <h2>Contact</h2>
+      <ul>
+        <li>Website: <a href="https://personal-website.gozilasim.win">personal-website.gozilasim.win</a></li>
+        <li>GitHub: <a href="https://github.com/Gozilasim">github.com/Gozilasim</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/gozilasim">linkedin.com/in/gozilasim</a></li>
+        <li>Telegram: <a href="https://t.me/Gozilasim">@Gozilasim</a></li>
+        <li>Email: <code>wengjin4896@gmail.com</code></li>
+      </ul>
     </td>
   </tr>
 </table>
