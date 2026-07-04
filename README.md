@@ -6,6 +6,10 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
 ## About Me
 
 I'm **SIM WENG JIN**, also known as **Gozilasim**.
@@ -19,6 +23,21 @@ I'm an **AI Engineer** and **Full-Stack AI Developer** based in Malaysia, focuse
 - Languages: Mandarin, English, Malay
 
 > 一个人的价值，不在于起点，而在于他愿意成长到哪里。
+
+    </td>
+    <td width="38%" valign="top">
+
+## Contact
+
+- Website: [personal-website.gozilasim.win](https://personal-website.gozilasim.win)
+- GitHub: [github.com/Gozilasim](https://github.com/Gozilasim)
+- LinkedIn: [linkedin.com/in/gozilasim](https://www.linkedin.com/in/gozilasim)
+- Telegram: [@Gozilasim](https://t.me/Gozilasim)
+- Email: `wengjin4896@gmail.com`
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,23 +89,16 @@ I'm an **AI Engineer** and **Full-Stack AI Developer** based in Malaysia, focuse
 
 ## GitHub Stats
 
-<div align="center">
-
-![Gozilasim's GitHub Stats](https://stats.gozilasim.win/api?username=Gozilasim&show_icons=true&theme=transparent&hide_border=true&commits_year=2026&cache_seconds=86400)
-
-![Most Used Languages](https://stats.gozilasim.win/api/top-langs/?username=Gozilasim&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400)
-
-</div>
-
----
-
-## Contact
-
-- Website: [personal-website.gozilasim.win](https://personal-website.gozilasim.win)
-- GitHub: [github.com/Gozilasim](https://github.com/Gozilasim)
-- LinkedIn: [linkedin.com/in/gozilasim](https://www.linkedin.com/in/gozilasim)
-- Telegram: [@Gozilasim](https://t.me/Gozilasim)
-- Email: `wengjin4896@gmail.com`
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://stats.gozilasim.win/api?username=Gozilasim&show_icons=true&theme=transparent&hide_border=true&commits_year=2026&cache_seconds=86400" alt="Gozilasim's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://stats.gozilasim.win/api/top-langs/?username=Gozilasim&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
